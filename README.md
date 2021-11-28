@@ -4,5 +4,5 @@
 [Download Project (zip)](../../archive/master.zip)
 
 <p align="center">
-    <a href="https://drive.google.com/open?id=0By-CMfnYF6bZTG9QRHl4enUzZGc"><img src="docs/presentation_thumb.png" alt="video"/></a>
+    <a href="https://drive.google.com/file/d/0By-CMfnYF6bZTG9QRHl4enUzZGc/view?usp=sharing&resourcekey=0-XTNkWXlaRC4Hpa7_JDQZtQ"><img src="docs/presentation_thumb.png" alt="video"/></a>
 </p>
